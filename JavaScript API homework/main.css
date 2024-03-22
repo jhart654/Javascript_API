@@ -1,0 +1,56 @@
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    background-image: url(images/blank_wall.webp);
+    background-size: cover;
+}
+
+.main_header {
+    padding-top: 5%;
+    padding-left: 30%;
+    margin-top: 3%;
+    padding-top: 5%;
+    margin-left: 3%;
+    margin-right: 25%
+}
+
+#main_button {
+    margin-left: 30%;
+    background-color: yellow;
+    width: 130px;
+    border-radius: 5px;
+    border-style: double;
+    border-color: grey;
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+.title_description {
+    color: blueviolet;
+    font-weight: bold;
+    margin-left: -6%
+}
+
+#chicago {
+    margin-left: 30%
+}
+
+.main_title {
+    margin-left: 3%;
+    font-family: cursive;
+    font-size: 80px;
+    color: green;
+    font-weight: bolder;
+}
+
+#painting {
+    margin-left: 15%
+}
+
+.container {
+    background-color: brown;
+}
